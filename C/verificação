@@ -1,1 +1,18 @@
+#include <stdio.h>
+int nam;
 
+printf("escreva um numero");
+scanf("%i",&nam);
+
+if (nam% 2 == 0){
+
+printf("o numero e par");
+
+    
+}else{
+
+printf("o numero e impar";
+}
+
+return 0;
+}
